@@ -1,0 +1,19 @@
+{
+  "name": "shopgrid/shopgrid-php-sdk",
+  "description": "ShopGrid PHP SDK",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "thinkholic",
+      "email": "mailtokasun@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "ShopGrid": "src/"
+    }
+  }
+}
